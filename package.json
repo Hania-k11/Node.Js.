@@ -1,13 +1,13 @@
 {
-  "name": "nodejs-crash-2024",
+  "name": "NodeJs",
   "version": "1.0.0",
-  "description": "Node.js crash course code",
+  "description": "NodeJs",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "nodemon server2.js"
   },
-  "author": "Brad Traversy",
+  "author": "Hania",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^3.1.0"
